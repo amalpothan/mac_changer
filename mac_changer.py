@@ -38,5 +38,3 @@ if new_mac_address == values.new_mac:
 else:
     print("Could not change MAC address")
 
-
-
